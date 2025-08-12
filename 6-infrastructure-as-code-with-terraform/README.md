@@ -1,4 +1,4 @@
-# Infasructure as Code with Terraform
+# Infasructure as Code with Terraform using Google Cloud
 
 
 ## Build Infrastructure with Terraform
