@@ -100,7 +100,7 @@ terraform show -json test.tfplan > tfplan.json
 
 ### 7. Install Terraform Vet Tools
 ```bash
-sudo apt-get update && sudo apt-get install -y google-cloud-sdk-terraform-tools
+sudo apt-get install google-cloud-sdk-terraform-tools
 ```
 
 ### 8. Validate Against the Constraint 
